@@ -1,0 +1,20 @@
+#confirmation {
+  display: none;
+}
+
+.container {
+  margin:auto;
+  width:80%;
+}
+
+.title img {
+  width: 100%;
+}
+
+.title h1 {
+  text-align: center;
+  margin-top: -200px;
+  margin-bottom: 220px;
+  color:white;
+  font-size: 4em;
+}
